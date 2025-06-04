@@ -331,38 +331,6 @@ Fetch a real-time stock quote for a specific company.
 @octagon-stock-data-agent Get real-time stock quote for the symbol AAPL.
 ```
 
-## Code Examples
-
-::: code-group
-
-```Python
-response = client.responses.create(
-    model="octagon-stock-data-agent",
-    input="How has Apple's stock performed compared to the S&P 500 over the last 6 months?",
-)
-```
-
-```JavaScript
-const response = await client.responses.create({
-  model: "octagon-stock-data-agent",
-  input: "How has Apple's stock performed compared to the S&P 500 over the last 6 months?",
-});
-```
-
-```cURL
-curl -X POST https://api-gateway.octagonagents.com/v1/responses \
-  -H "Content-Type: application/json" \
-  -H "Authorization: Bearer your-octagon-api-key" \
-  -d '{
-    "model": "octagon-stock-data-agent",
-    "input": "How has Apple's stock performed compared to the S&P 500 over the last 6 months?",
-    "stream": true
-  }' \
-  --no-buffer
-```
-
-::: 
-
 
 ## How to Create Effective Prompts for Stock Data Analysis
 
