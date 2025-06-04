@@ -4,7 +4,7 @@
 
 **Powered by [Octagon AI](https://docs.octagonagents.com)** - Learn more about the Stock Data Agent at [docs.octagonagents.com](https://docs.octagonagents.com/guide/agents/stock-data-agent.html)
 
-[![Demo](https://img.youtube.com/vi/yh1cyrm9aus/0.jpg)](https://youtu.be/yh1cyrm9aus)
+[![Demo](https://docs.octagonagents.com/financial_model_demo_fast.gif)](https://docs.octagonagents.com/financial_model_demo.mp4)
 
 ## 🏆 Why Teams Choose Octagon's Enterprise-Grade Stock Market Data API
 
