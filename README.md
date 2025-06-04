@@ -4,6 +4,8 @@
 
 **Powered by [Octagon AI](https://docs.octagonagents.com)** - Learn more about the Stock Data Agent at [docs.octagonagents.com](https://docs.octagonagents.com/guide/agents/stock-data-agent.html)
 
+[![Demo](https://img.youtube.com/vi/yh1cyrm9aus/0.jpg)](https://youtu.be/yh1cyrm9aus)
+
 ## 🏆 Why Teams Choose Octagon's Enterprise-Grade Stock Market Data API
 
 👉 **Real-time market data** — Access live stock prices, trading volumes, and market indicators  
